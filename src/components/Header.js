@@ -12,8 +12,12 @@ const Header = () => {
             <a href="mailto:kyawhtet1996.dev@gmail.com" className="contact-link">
               kyawhtet1996.dev@gmail.com
             </a>
-            <a href="https://linkedin.com/in/kyaw-htet-44b8432bb" target="_blank" rel="noopener noreferrer" className="contact-link">
+            <a href="https://linkedin.com/in/kyaw-htet-44b8432bb" target="_blank" rel="noopener noreferrer"
+               className="contact-link">
               LinkedIn
+            </a>
+            <a href="https://github.com/KyawHtet8" target="_blank" rel="noopener noreferrer" className="contact-link">
+              GitHub
             </a>
             <a href="https://github.com/KyawHtet8" target="_blank" rel="noopener noreferrer" className="contact-link">
               GitHub
