@@ -53,7 +53,7 @@ const App = () => {
       title: "AWS Cloud Infrastructure Portfolio",
       tech: ["AWS S3", "CloudFront", "Route 53", "Static Hosting"],
       description: "Deployed scalable static website with global CDN distribution",
-      link: "http://ivan-bucket-portfolio.s3-website-ap-southeast-1.amazonaws.com",
+      link: "https://www.ivanthedev.dev",
       highlight: "Live on AWS"
     },
     {
